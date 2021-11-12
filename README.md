@@ -16,4 +16,4 @@
 ## Homework 4
 -[Info 5100 HW4 Q1](https://github.com/ShuxinLi05/HW/tree/main/HW4/Q1/src/com/company)
 
--[Info 5100 HW4 Q2]()
+-[Info 5100 HW4 Q2](https://github.com/ShuxinLi05/HW/tree/main/HW4/Q2/src/com/company)
